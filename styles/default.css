@@ -1,0 +1,30 @@
+
+html {
+	background-color: mocha;
+}
+
+figure, footer {
+	text-align: center;
+	padding: 5pt;
+}
+
+figure img {
+	width: 35%;
+	height: 45%;
+}
+
+body {
+	text-align: left;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+nav ul li {
+	display: inline;
+	margin-left: 35pt;
+}
+
+h1, h2, h3 {
+	background-color: lightgrey;
+	text-align: center;	
+}
