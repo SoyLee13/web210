@@ -25,3 +25,23 @@ main p {
 	background-color: #FFFFF0;
 	opacity: 90%;
 }
+
+nav {
+	text-align: center;
+}
+
+nav a {
+	padding: 10px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	color: darkcyan;
+}
+
+a:hover {
+	color: lightyellow;
+}
