@@ -51,3 +51,25 @@ a:visited {
 a:hover {
 	color: lightyellow;
 }
+
+#myProgress {
+	width: 50%;
+	background-color: lightpink;
+	text-align: center;
+	margin-left: 375px;
+}
+
+#myBar {
+	height: 25px;
+	width: 1%;
+	background-color: lavender;
+	border: solid black 3px;
+}
+
+body, .center {
+	text-align: center;
+}
+
+button {
+	padding: 10px;
+}
